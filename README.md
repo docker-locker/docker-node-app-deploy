@@ -1,2 +1,6 @@
 # docker-node-app-deploy
-Docker Compose config for node app
+Clone and build the node-express image from https://github.com/docker-locker/docker-node-app
+Then.
+```sh
+docker-compose up
+```
