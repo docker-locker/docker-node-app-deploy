@@ -1,0 +1,4 @@
+express:
+  image: node-express
+  ports:
+    - "3000:3000"
